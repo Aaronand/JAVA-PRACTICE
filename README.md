@@ -1,2 +1,2 @@
 # JAVA-PRACTICE
-to practice coding in Java and learn how to use GitHub
+##to practice coding in Java##
